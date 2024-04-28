@@ -269,6 +269,8 @@ Elaborated Design :
 
 #7
 
+UP DOWN COUNTER :-
+
 Code:
 ~~~
 module updown_counter(clk,rst,updown,out);
