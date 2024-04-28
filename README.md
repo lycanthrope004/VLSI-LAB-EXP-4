@@ -119,7 +119,7 @@ Simulation Output:
 
 Elaborated Design:
 
-![image](https://github.com/lycanthrope004/VLSI-LAB-EXP-4/assets/121667830/5bb2540b-849a-4d67-8c55-4c6822723521)
+![image](https://github.com/lycanthrope004/VLSI-LAB-EXP-4/assets/121667830/ac32b15d-c5f9-410f-b164-5f0edd482fc8)
 
 #3
 
